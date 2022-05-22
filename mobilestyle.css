@@ -1,0 +1,104 @@
+@media only screen and (max-width: 980px){
+    #navbar{
+        flex-direction: column;
+        align-items: center;
+        margin-top: 0;
+    }
+    .brava{
+        cursor: pointer;
+    }
+    .ggg{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        margin: auto;
+    }
+    .boi{
+        width: auto;
+        border-radius: 2rem;
+        margin-bottom: 2rem;
+    }
+    .imggs{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: #FEFCEC;
+        margin-top: 1rem;
+
+    }
+    #tgrup{
+        
+        /* align-self: flex-start; */
+        position:initial;
+        margin: auto;
+        width: 16rem;
+        height: 6rem;
+    }
+    #dgrup{
+        position:initial;
+        margin: auto;
+        width: 20rem;
+        height: 7rem;
+      }
+   
+    #checkcourses{
+        margin-top: 2rem;
+    }
+    #learnmore{
+        margin-bottom: 2rem;
+    }
+    .pricepattern{
+        margin: auto;
+        width: auto;
+        margin-left: 1rem;
+    }
+  .find{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      justify-items: center;
+      align-items: center;
+  }
+  .course{
+    width: 100%;
+    margin: auto;
+    align-self: center;
+    /* margin-left: 2rem; */
+    margin-top: 1rem;
+}
+  .companies{display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .lll{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
+  .imgback{
+      display: flex;
+      margin: auto;
+      width: 100%;
+      margin-top: 5rem;
+  }
+  .boi2{
+      width: 50%;
+      align-self: center;
+      position:sticky;
+      margin-top: 2rem;
+      
+
+  }
+  .learning{
+      align-self: center;
+      width: auto;
+  }
+.lll{
+    height: max-content;
+    display: flex;
+    justify-content: center;
+}
+
+}
